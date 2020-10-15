@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tda25/reenvision-app/static/css/main.5f361e03.chunk.css",
+    "main.js": "/tda25/reenvision-app/static/js/main.ce062ddd.chunk.js",
+    "main.js.map": "/tda25/reenvision-app/static/js/main.ce062ddd.chunk.js.map",
+    "runtime-main.js": "/tda25/reenvision-app/static/js/runtime-main.65c643a2.js",
+    "runtime-main.js.map": "/tda25/reenvision-app/static/js/runtime-main.65c643a2.js.map",
+    "static/js/2.a4e37168.chunk.js": "/tda25/reenvision-app/static/js/2.a4e37168.chunk.js",
+    "static/js/2.a4e37168.chunk.js.map": "/tda25/reenvision-app/static/js/2.a4e37168.chunk.js.map",
+    "index.html": "/tda25/reenvision-app/index.html",
+    "precache-manifest.fb4f507bae0394a50675c1a3c3062d99.js": "/tda25/reenvision-app/precache-manifest.fb4f507bae0394a50675c1a3c3062d99.js",
+    "service-worker.js": "/tda25/reenvision-app/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/tda25/reenvision-app/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.a4e37168.chunk.js.LICENSE.txt": "/tda25/reenvision-app/static/js/2.a4e37168.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/tda25/reenvision-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.65c643a2.js",
+    "static/js/2.a4e37168.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.ce062ddd.chunk.js"
+  ]
+}
